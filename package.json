@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/sarah023/Line-Drawer#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sourcemaps": "^2.6.5"
   }
 }
